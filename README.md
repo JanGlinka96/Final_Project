@@ -1,4 +1,4 @@
-# Final Project Update of the README File
+# Final Project Update of README.MD
 
 ## Simple Interest Calculator
 
